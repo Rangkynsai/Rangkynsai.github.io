@@ -61,6 +61,7 @@ h2{
     max-width:375px;
     text-align: center;
     margin:0 auto 10px auto;
+    letter-spacing: 1px;
 }
 h3{
     font-size:2rem;
@@ -273,7 +274,10 @@ textarea{
     }
   }
 .fa-map-marker-alt,.fa-phone,.fa-envelope,.contact-logo,.reach{
-    color:#fff;
+    color:#FFF;
     font-size:1rem;
     margin-bottom:1em;
+}
+.contact-logo>i{
+    color:#FF7701;
 }
