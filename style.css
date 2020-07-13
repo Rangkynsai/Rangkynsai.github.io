@@ -91,12 +91,12 @@ strong{
     display:flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
-    padding:2em;
+    padding:2em 2em 0 2em;
 }
 .project{
     height:300px;
     width:430px;
-    margin-bottom:1em; 
+    margin-bottom:0.5em; 
 }
 .info{
     text-align: center;
