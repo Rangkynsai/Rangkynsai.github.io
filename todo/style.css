@@ -102,3 +102,16 @@ ul li input[type="submit"]{
         max-width:30em;
     }
 }
+@media (max-width:900px){
+    ul li input[type="submit"]{
+        width:3rem;
+    }
+    .list{
+        padding-left:1rem;
+        padding-right:1rem;
+    }
+    ul li{
+        font-size:1em;
+    }
+
+}
