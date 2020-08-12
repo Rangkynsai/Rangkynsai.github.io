@@ -231,6 +231,9 @@ textarea{
     font-size:1rem;
     text-align: center;
 }
+.bar a:hover{
+    color:#f6f2f7a1;
+}
 .ski{
     color:#0C395B;
     padding-bottom:0;
