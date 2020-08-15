@@ -53,6 +53,9 @@ button:hover{
     padding-top:2em;
     
 }
+.mid>p{
+    padding:0 1rem 2rem;
+}
 
 span{
     text-align: center;
@@ -195,9 +198,12 @@ textarea{
     padding-top: 10px;
     padding-bottom: 10px;
     color: white;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
   }
 .container{
-    background-color: gray;
+    background-color: rgb(221, 219, 219);
+    border-radius: 10px;;
   }
   
 .html {
@@ -305,4 +311,10 @@ textarea{
     line-height: 20px;
     text-align: justify;
     margin:0 1em 1em;
+}
+.fa-js-square,.fa-python,.fa-css3-alt,.fa-html5{
+    margin:0;
+    padding:0;
+    color:#fff;
+    font-size:1rem;
 }
