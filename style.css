@@ -45,6 +45,10 @@ button:hover{
     max-width:300px;
     margin:0 auto 0 auto;
 }
+.img:hover {
+    -webkit-box-shadow: -1px -1px 13px -1px rgba(97,97,97,0.67);
+    transition: ease-in .3s;
+}
 .mid{
     margin-top:1em;
     background-color:#FF7701;
