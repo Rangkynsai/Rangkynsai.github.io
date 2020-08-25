@@ -44,6 +44,7 @@ button:hover{
     height:300px;
     max-width:300px;
     margin:0 auto 0 auto;
+    border-radius:10px;
 }
 .img:hover {
     -webkit-box-shadow: -1px -1px 13px -1px rgba(97,97,97,0.67);
