@@ -109,8 +109,7 @@ strong{
 .project{
     height:410px;
     width:350px;
-    margin-bottom:0.5em; 
-    box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.75);
+    margin-bottom:0.5em;
 }
 .project img{
 object-fit:center;
